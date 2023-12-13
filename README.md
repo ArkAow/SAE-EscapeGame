@@ -1,3 +1,18 @@
 # SAE-EscapeGame
-il faut ajouter les qr codes,
-l'executable android, ios.
+
+## Présentation
+Ceci est un de nos projets de SAE de but informatique.
+C'est un escape game qui a pour theme l'informatique, ces plus grands contributeurs et leurs inventions.
+
+## Guide d'installation
+### Téléchargement
+Pour jouer à notre escape gamme, il faut d'abord installer le fichier exécutable sur votre téléphone ou tablette.
+Téléchargez le fichier .apk sur votre appareil pour télécharger le jeu.
+
+### Mise en place
+Maintenant, il faut que vous imprimiez les différents QRcodes numérotés (gardez les numéro dessus cela vous servira à les placer).
+
+à faire
+-> donner l'emplacement et la salle de chaque qr code.
+
+
