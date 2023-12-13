@@ -4,7 +4,7 @@
 Ceci est un de nos projets de SAE de but informatique.
 C'est un escape game qui a pour theme l'informatique, ces plus grands contributeurs et leurs inventions.
 
-<img src="https://github.com/Axel230303/Image/blob/main/Escape%20Game%20Affiche.png" width="800">
+<img src="https://github.com/Axel230303/Image/blob/main/Escape%20Game%20Affiche.png" width="400">
 
 ## Guide d'installation
 ### Téléchargement
