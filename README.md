@@ -15,6 +15,9 @@ Téléchargez le fichier .apk sur votre appareil pour télécharger le jeu.
 Maintenant, il faut que vous imprimiez les différents QRcodes numérotés (gardez les numéro dessus cela vous servira à les placer).
 
 à faire
+-> reunir tt les qrcodes sur une page ou deux et les numéroter pour les imprimer et les découper
 -> donner l'emplacement et la salle de chaque qr code.
+
+Ensuite imprimez le reste des documents papiers et les disposer.
 
 
