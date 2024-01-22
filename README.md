@@ -11,6 +11,10 @@ C'est un escape game qui a pour theme l'informatique, ces plus grands contribute
 Pour jouer à notre escape gamme, il faut d'abord installer le fichier exécutable sur votre téléphone ou tablette.
 Téléchargez le fichier .apk sur votre appareil pour télécharger le jeu.
 
+Le lien du téléchargement afin que vos utilisateurs puissent installer le jeu est donc : https://github.com/ArkAow/SAE-EscapeGame/tree/main/application . 
+
+La bonne version de l'application est nommée EscapeGame.apk
+
 ### Mise en place
 Maintenant, il faut que vous imprimiez les différents QRcodes numérotés (gardez les numéro dessus cela vous servira à les placer).
 
