@@ -1,17 +1,17 @@
 # SAE-EscapeGame
 
 ## Présentation
-Ceci est un de nos projets de SAE de but informatique.
-C'est un escape game qui a pour theme l'informatique, ces plus grands contributeurs et leurs inventions.
+Ceci est un de nos projets de SAE de BUT informatique.
+C'est un escape game qui a pour thème l'informatique, afin de présenter ses plus grands contributeurs ainsi que leurs inventions.
 
 <img src="https://github.com/Axel230303/Image/blob/main/Escape%20Game%20Affiche.png" width="400">
 
 ## Guide d'installation
 ### Téléchargement
-Pour jouer à notre escape gamme, il faut d'abord installer le fichier exécutable sur votre téléphone ou tablette.
+Pour jouer à notre escape game, il vous faut d'abord installer le fichier exécutable sur votre téléphone ou votre tablette.
 Téléchargez le fichier .apk sur votre appareil pour télécharger le jeu.
 
-Le lien du téléchargement afin que vos utilisateurs puissent installer le jeu est donc : https://github.com/ArkAow/SAE-EscapeGame/tree/main/application . 
+voici le lien du téléchargement afin que vos utilisateurs puissent installer le jeu : https://github.com/ArkAow/SAE-EscapeGame/tree/main/application . 
 
 La bonne version de l'application est nommée EscapeGame.apk
 
