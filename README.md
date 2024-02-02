@@ -1,27 +1,25 @@
 # SAE-EscapeGame
-
+[fr]
 ## Présentation
-Ceci est un de nos projets de SAE de BUT informatique.
-C'est un escape game qui a pour thème l'informatique, afin de présenter ses plus grands contributeurs ainsi que leurs inventions.
+Bonjour,
+Voici un projet de SAE effectuer dans le cadre du BUT informatique de l'IUT de Limoges(87).
+Ce projet se présente sous la forme d'un jeu vidéo "escape game" qui a pour but de présenter les plus grands contributeurs de l'informatique ainsi que leurs inventions.
+Le jeu se joue sur mobile (téléphone, tablette, ...) et est exclusif aux appareils ANDROID.
 
 <img src="https://github.com/Axel230303/Image/blob/main/Escape%20Game%20Affiche.png" width="400">
 
 ## Guide d'installation
 ### Téléchargement
-Pour jouer à notre escape game, il vous faut d'abord installer le fichier exécutable sur votre téléphone ou votre tablette.
-Téléchargez le fichier .apk sur votre appareil pour télécharger le jeu.
-
-voici le lien du téléchargement afin que vos utilisateurs puissent installer le jeu : https://github.com/ArkAow/SAE-EscapeGame/tree/main/application . 
-
-La bonne version de l'application est nommée EscapeGame.apk
+Le jeu est téléchargeable depuis ce lien : lien-de-telechargement
+  ou depuis le fichier application/nom-du-jeu.apk sur ce repertoire github.
 
 ### Mise en place
-Maintenant, il faut que vous imprimiez les différents QRcodes numérotés (gardez les numéro dessus cela vous servira à les placer).
-
-à faire
--> reunir tt les qrcodes sur une page ou deux et les numéroter pour les imprimer et les découper
--> donner l'emplacement et la salle de chaque qr code.
-
-Ensuite imprimez le reste des documents papiers et les disposer.
+A present,
+il vous faut télécharger et imprimer tout les documents que contient le répertoire ressources.
+Il vous faudra ensuite les disposer de tel façon :
+  - bla bla bla tuto
+  - bla bla bla turing
+  - bla bla bla ada
+  - bla bla bla lamarr
 
 
