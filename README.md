@@ -22,9 +22,7 @@ il vous faut télécharger et imprimer tous les documents que contient le réper
 Il vous faudra ensuite les disposer de tel façon :
   - Regrouper les éléments "tuto" ensemble.
   - Regrouper les éléments "Turing" ensemble.
-  - Regrouper les éléments "Lovelace" ensemble.
-  - Regrouper les éléments "Lamarr" ensemble.
 
 Note : dans le cadre ou le jeu est organisé en dehors des JPO et de l'enceinte de l'IUT Informatique de Limoges, les QRCodes nommés "Plan - X" ainsi que la rubrique "Plan" de l'application n'a aucune utilité. Commencer par le QRCode du tutoriel ainsi que regrouper les différents éléments en fonction de leur thème est en revanche essenciel pour une meilleure expérience.
 
-
+Note 2 : Ce projet de SAE a été entièrement pensé et réalisé par notre groupe de 5 étudiants, au sein du BUT Informatique de Limoges.
